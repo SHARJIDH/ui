@@ -1,0 +1,19 @@
+.shape-container {
+  display: flex;
+  gap: 5px;
+  padding: 10px;
+}
+
+.rounded-rectangle {
+  width: 50px;
+  height: 10px;
+  background-color: #008080;
+  border-radius: 20px;
+}
+
+.circle {
+  width: 10px;
+  height: 10px;
+  background-color: #008080;
+  border-radius: 50%;
+}
